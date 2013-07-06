@@ -1,0 +1,40 @@
+{
+    "name": "postdatas",
+    "version": "1.0.0",
+    "title": "jQuery postdatas Plugin",
+    "author": {
+        "name": "Rémi Goyard",
+        "url": "http://www.mimiz.fr/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": "1.2.2"
+    },
+    "description": "Just a little jQuery plugin to post datas with javascript, technically, this plugin add a hidden form in the page, all form fields are hidden, and then submit this form.",
+    "keywords": [
+        "post",
+        "json",
+        "noAjax",
+        "postdatas",
+        "datas"
+    ],
+    "homepage": "http://demos.mimiz.fr/jquery/postdatas",
+    "docs": "http://www.mimiz.fr/en/javascript/jquery/en-jquery-postdatas-plugin/",
+    "demo": "http://demos.mimiz.fr/jquery/postdatas",
+    "maintainers": [
+        {
+            "name": "Rémi Goyard",
+            "url": "http://www.mimiz.fr"
+        }
+    ],
+    "files": ["jquery.postdatas.js"]
+}

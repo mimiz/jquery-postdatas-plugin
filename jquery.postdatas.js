@@ -1,12 +1,9 @@
 /*
  * jQuery Postdatas Plugin
- * @version: 0.3 (12/02/2011)
+ * @version: 1.0.0 (12/02/2011)
  * @requires jQuery v1.2.2 or later
  * @author : Rémi Goyard
  * @see : http://demos.mimiz.fr/jquery/postdatas
- *
- * 
- *
  */
 (function($) {
 	$.postdatas = function(options){
